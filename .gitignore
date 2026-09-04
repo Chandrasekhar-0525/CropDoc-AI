@@ -1,0 +1,9 @@
+venv/
+dataset/
+test_images/
+__pycache__/
+*.pyc
+# Large AI models
+sorghum_disease_model.keras
+soybean_disease_model.keras
+sugarcane_disease_model.keras
